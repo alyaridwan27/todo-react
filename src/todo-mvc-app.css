@@ -354,6 +354,13 @@ html .clear-completed:active {
 	text-decoration: underline;
 }
 
+.center-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh; /* Adjust or remove height as needed */
+  }  
+
 /*
 	Hack to remove background from Mobile Safari.
 	Can't use it globally since it destroys checkboxes in Firefox

@@ -11,6 +11,10 @@ function App() {
         <Main />
         <Footer />
       </div>
+
+      <div className="App">
+      <div className="center-content">Alya Nursalma Ridwan -2602184265</div>
+    </div>
     </TodosProvider>
   );
 }
